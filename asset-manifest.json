@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.d7b92c27.css",
+    "main.js": "/website/static/js/main.577608f8.js",
+    "static/media/contactUs.png": "/website/static/media/contactUs.55d6e8bce0248b314307.png",
+    "static/media/school backimg.jpg": "/website/static/media/school backimg.3f09485e92239bd36841.jpg",
+    "static/media/cousal1.jpg": "/website/static/media/cousal1.0931cafa73aa49a560c0.jpg",
+    "static/media/cousal3.jpg": "/website/static/media/cousal3.60a706a9a061d99838f7.jpg",
+    "static/media/cousal2.jpg": "/website/static/media/cousal2.d2f8ca1d24ab302621bd.jpg",
+    "index.html": "/website/index.html",
+    "main.d7b92c27.css.map": "/website/static/css/main.d7b92c27.css.map",
+    "main.577608f8.js.map": "/website/static/js/main.577608f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7b92c27.css",
+    "static/js/main.577608f8.js"
+  ]
+}
