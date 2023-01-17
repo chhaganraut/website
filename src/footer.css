@@ -1,0 +1,9 @@
+.footer{
+    background-color: black;
+    text-align: center;
+    color: blanchedalmond;
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    background-color: yellow;
+    width: 100%;
+}
